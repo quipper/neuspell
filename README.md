@@ -1,6 +1,10 @@
 <h1 align="center">
 <p>NeuSpell: A Neural Spelling Correction Toolkit
 </h1>
+This repository has been forked for the purpose of improving our internal machine learning models at our company.
+
+# Ownership
+The owner of this repository is "data-writing-feedback-devs".
 
 # Contents
 
